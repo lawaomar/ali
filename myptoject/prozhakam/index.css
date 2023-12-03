@@ -1,0 +1,136 @@
+body {
+
+    background-color: #465362;
+
+}
+
+#navyhazr {
+    background-color: #9f9fad !important;
+
+
+
+}
+
+
+#dugmaygaran {
+    color: white;
+    border: 1px solid white;
+
+
+
+}
+
+#aytable{
+    font-weight: bold;
+   text-decoration: none;
+color: white;
+transition: 0.5s;
+}
+.aytable :hover{
+background-color: white !important;
+color: black !important;
+box-shadow: 0px 0px 10px 0px #9fc2cc !important;
+
+}
+
+.rsmyxom {
+
+    position: relative;
+    top: 20px;
+    border: 2px solid #9f9fad;
+
+
+}
+
+#figr {
+    position: relative;
+    top: 20px;
+    color: white;
+}
+
+.pra {
+    position: relative;
+    bottom: 10px;
+
+
+}
+
+
+#qyas {
+    width: 30px;
+
+
+
+}
+
+.qyas {
+    width: 30px;
+
+
+
+}
+
+.table{
+    border-radius: 10px;
+    background-color: #465362 !important;
+    width: 500px;
+    align-items: center !important;
+    border: 2px solid #9f9fad;
+border-radius: 10px !important;
+
+    box-shadow: 0px 0px 10px 0px #9f9fad;
+    margin: 10px auto;
+    color: #9f9fad !important;
+}
+
+
+
+
+
+#nusin {
+    color:white;
+    font-weight: bold;
+    font-size: 13px;
+
+}
+
+.Ali1{
+border: none;
+background-color: #465362;
+color: white;
+position: relative;
+top: 5px;
+display: block;
+margin: 0 auto;
+width: 300px;
+} 
+th{
+background-color: #9f9fad !important;
+
+
+}
+td{
+background-color: #4c5760 !important;
+
+
+
+}
+
+nav{
+height: 50px;
+
+}
+.nusininav{
+color: white;
+
+}
+
+
+
+.container{
+width: 375px 812px;
+
+
+
+
+}
